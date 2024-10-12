@@ -1,7 +1,7 @@
 # COMP3104_Group26_Assignment
 ## Group Members
 - **Leader:** Pedro Raji (101435481) - [GitHub](https://github.com/pedramraji)
-- **Member 2:** 
+- **Member 2:** Ammar Sultan (101296759) - [GitHub](https://github.com/ammar-sultan)
 - **Member 3:** 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
