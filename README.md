@@ -1,4 +1,4 @@
-# COMP3104_Group1_Assignment
+# COMP3104_Group26_Assignment
 ## Group Members
 - **Leader:** Pedro Raji (101435481) - [GitHub](https://github.com/pedramraji)
 - **Member 2:** 
